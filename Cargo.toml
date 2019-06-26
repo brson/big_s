@@ -1,6 +1,6 @@
 [package]
 name = "big_s"
-version = "1.0.1"
+version = "1.0.2"
 authors = ["Brian Anderson <andersrb@gmail.com>"]
 license = "MIT/Apache-2.0/CC0-1.0"
 description = "Rust's missing `String` literal"
@@ -8,6 +8,7 @@ documentation = "https://docs.rs/big_s"
 homepage = "https://github.com/brson/big_s"
 repository = "https://github.com/brson/big_s"
 keywords = ["string", "literal"]
+readme = "README.md"
 edition = "2018"
 
 [dependencies]
