@@ -1,12 +1,12 @@
 [package]
 name = "big_s"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Brian Anderson <andersrb@gmail.com>"]
 license = "MIT/Apache-2.0/CC0-1.0"
 description = "Rust's missing `String` literal"
-documentation = "https://docs.rs/S"
-homepage = "https://github.com/brson/S"
-repository = "https://github.com/brson/S"
+documentation = "https://docs.rs/big_s"
+homepage = "https://github.com/brson/big_s"
+repository = "https://github.com/brson/big_s"
 keywords = ["string", "literal"]
 edition = "2018"
 
